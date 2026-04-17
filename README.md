@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Web Developer | UI/UX Enthusiast
 
- 18 yo Cracked Dev, Passionate about building responsive, user-focused web applications  
+ 19 yo Cracked Dev, Passionate about building responsive, user-focused web applications  
  Currently improving my backend and database design skills  
  Based in Nigeria  (for now)
 
