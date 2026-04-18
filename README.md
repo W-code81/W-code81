@@ -56,4 +56,4 @@
 
 ## ⚡ Fun Fact
 
-I’m building my journey from scratch — aiming to become a top-tier developer and tech entrepreneur.
+I’m building my journey from scratch — aiming to become a top-tier developer and tech entrepreneur!
