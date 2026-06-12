@@ -25,7 +25,8 @@
 -  **Truckriser (Revamp Ongoing)** – A modern web app upgrade from a static project  
 -  **CNN Clone** – News interface with external live integration  
 -  **Blog App (EJS)** – Dynamic blog system without database (learning phase)
--  **Bible API /Web App** - A {node.js,express.js} api 
+-  **Bible API /Web App** - A {node.js,express.js} api
+-  **Portfolio** - A react.js & tailwindcss app showcasing me
 
 ---
 
