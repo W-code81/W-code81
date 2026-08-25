@@ -22,10 +22,8 @@
 
 ## 📌 Projects
 
--  **Truckriser (Revamp Ongoing)** – A modern web app upgrade from a static project  
--  **CNN Clone** – News interface with external live integration  
--  **Blog App (EJS)** – Dynamic blog system without database (learning phase)
--  **Bible API /Web App** - A {node.js,express.js} api
+-  **MMS** – A meal management system revamp for Renaissance Africa Energy Company Limited 
+-  **Dishboard** –  A CMS for medium-sized businesses
 -  **Portfolio** - A react.js & tailwindcss app showcasing me
 
 ---
@@ -41,9 +39,9 @@
 
 ## 🌱 Currently Learning
 
-- React.js
-- Advanced Backend Development  
-- MongoDB & Database Design  
+- React / TypeScript
+- Nuxt.js 
+- Enterprise systems  
 - Building Full Stack Production Apps  
 
 ---
