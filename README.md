@@ -22,7 +22,8 @@
 
 ## 📌 Projects
 
--  **MMS** – A meal management system revamp for Renaissance Africa Energy Company Limited 
+-  **MMS** – A meal management system revamp for Renaissance Africa Energy Company Limited
+-  **RMS** - Developed a registration management system for New Covenant Baptist Church 
 -  **Dishboard** –  A CMS for medium-sized businesses
 -  **DevBounty** - DevBounty turns GitHub issues into clear bounties, using code review evidence and maintainer approval to reward contributors.
 ---
@@ -36,7 +37,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
 - React / TypeScript
 - Nuxt.js 
